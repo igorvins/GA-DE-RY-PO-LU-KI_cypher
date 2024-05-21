@@ -1,0 +1,15 @@
+D:\HD IGOR\source\code_wars\GA-DE-RY-PO-LU-KI\GA-DE-RY-PO-LU-KI\bin\Debug\net6.0\GA-DE-RY-PO-LU-KI.exe
+D:\HD IGOR\source\code_wars\GA-DE-RY-PO-LU-KI\GA-DE-RY-PO-LU-KI\bin\Debug\net6.0\GA-DE-RY-PO-LU-KI.deps.json
+D:\HD IGOR\source\code_wars\GA-DE-RY-PO-LU-KI\GA-DE-RY-PO-LU-KI\bin\Debug\net6.0\GA-DE-RY-PO-LU-KI.runtimeconfig.json
+D:\HD IGOR\source\code_wars\GA-DE-RY-PO-LU-KI\GA-DE-RY-PO-LU-KI\bin\Debug\net6.0\GA-DE-RY-PO-LU-KI.dll
+D:\HD IGOR\source\code_wars\GA-DE-RY-PO-LU-KI\GA-DE-RY-PO-LU-KI\bin\Debug\net6.0\GA-DE-RY-PO-LU-KI.pdb
+D:\HD IGOR\source\code_wars\GA-DE-RY-PO-LU-KI\GA-DE-RY-PO-LU-KI\obj\Debug\net6.0\GA-DE-RY-PO-LU-KI.GeneratedMSBuildEditorConfig.editorconfig
+D:\HD IGOR\source\code_wars\GA-DE-RY-PO-LU-KI\GA-DE-RY-PO-LU-KI\obj\Debug\net6.0\GA-DE-RY-PO-LU-KI.AssemblyInfoInputs.cache
+D:\HD IGOR\source\code_wars\GA-DE-RY-PO-LU-KI\GA-DE-RY-PO-LU-KI\obj\Debug\net6.0\GA-DE-RY-PO-LU-KI.AssemblyInfo.cs
+D:\HD IGOR\source\code_wars\GA-DE-RY-PO-LU-KI\GA-DE-RY-PO-LU-KI\obj\Debug\net6.0\GA-DE-RY-PO-LU-KI.csproj.CoreCompileInputs.cache
+D:\HD IGOR\source\code_wars\GA-DE-RY-PO-LU-KI\GA-DE-RY-PO-LU-KI\obj\Debug\net6.0\GA-DE-RY-PO-LU-KI.sourcelink.json
+D:\HD IGOR\source\code_wars\GA-DE-RY-PO-LU-KI\GA-DE-RY-PO-LU-KI\obj\Debug\net6.0\GA-DE-RY-PO-LU-KI.dll
+D:\HD IGOR\source\code_wars\GA-DE-RY-PO-LU-KI\GA-DE-RY-PO-LU-KI\obj\Debug\net6.0\refint\GA-DE-RY-PO-LU-KI.dll
+D:\HD IGOR\source\code_wars\GA-DE-RY-PO-LU-KI\GA-DE-RY-PO-LU-KI\obj\Debug\net6.0\GA-DE-RY-PO-LU-KI.pdb
+D:\HD IGOR\source\code_wars\GA-DE-RY-PO-LU-KI\GA-DE-RY-PO-LU-KI\obj\Debug\net6.0\GA-DE-RY-PO-LU-KI.genruntimeconfig.cache
+D:\HD IGOR\source\code_wars\GA-DE-RY-PO-LU-KI\GA-DE-RY-PO-LU-KI\obj\Debug\net6.0\ref\GA-DE-RY-PO-LU-KI.dll

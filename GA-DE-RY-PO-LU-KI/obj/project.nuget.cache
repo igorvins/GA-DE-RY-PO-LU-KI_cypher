@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uObYs0i3AhOWj1+yp6OLjk+tL3vL3VJrRViewKZtarE8I8ScPCwMGpqdkEZdnr97MMUyjTERlFxRIdwsNO2Iow==",
+  "success": true,
+  "projectFilePath": "D:\\HD IGOR\\source\\code_wars\\GA-DE-RY-PO-LU-KI\\GA-DE-RY-PO-LU-KI\\GA-DE-RY-PO-LU-KI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igorv\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\igorv\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\igorv\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\igorv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
